@@ -42,3 +42,10 @@ footer p {
 .box-shadow { 
     box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); 
 }
+
+.centered-button {
+    display: block;
+    margin: 0 auto;
+    max-width: 200px;
+
+}
